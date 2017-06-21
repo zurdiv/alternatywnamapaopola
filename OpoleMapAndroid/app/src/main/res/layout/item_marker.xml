@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.binartech.opolemap"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/marker_posmakuj" />
+    <com.binartech.opolemap.core.TypefaceTextView
+        android:id="@+id/marker_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="-5dp"
+        android:lines="1"
+        android:text="99"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        app:fontface="libelsuit" />
+</FrameLayout>

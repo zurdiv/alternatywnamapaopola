@@ -1,0 +1,53 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Black">        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme"> <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <color name="Opole.ActionBar">#A38C64</color>
+    <color name="Opole.Background">#B99E71</color>
+    <style name="Opole.Style.ActionBar" parent="@style/Widget.Sherlock.ActionBar">
+        <item name="android:background">@color/Opole.ActionBar</item>
+    </style>
+    <style name="Opole.TextView" parent="@android:style/Widget.TextView">
+        <item name="fontface">libelsuit</item>
+    </style>
+    <style name="Opole.Theme" parent="@style/Theme.Sherlock">
+        <item name="android:windowBackground">@color/Opole.Background</item>
+        <item name="android:colorBackground">@color/Opole.Background</item>
+        <item name="android:actionBarStyle">@style/Opole.Style.ActionBar</item>
+        <item name="android:textViewStyle">@style/Opole.TextView</item>
+    </style>
+    
+    <style name="Opole.Theme.Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/popup_full_bright</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Opole.Theme.Splash" parent="@style/Theme.Sherlock.NoActionBar">
+        <item name="android:windowBackground">@color/splash_bg</item>
+    </style>
+        
+    <color name="Opole.ActionBarRed">#3d7679</color>
+    <color name="Opole.BackgroundRed">#c8422b</color>
+    <color name="white">#ffffff</color>
+    <style name="Opole.Style.ActionBarRed" parent="@style/Widget.Sherlock.ActionBar">
+        <item name="android:background">@color/Opole.ActionBarRed</item>
+    </style>
+    <style name="Opole.TextViewRed" parent="@android:style/Widget.TextView">
+        <item name="fontface">libelsuit</item>
+    </style>
+    <style name="Opole.ThemeRed" parent="@style/Theme.Sherlock">
+        <item name="android:windowBackground">@color/Opole.BackgroundRed</item>
+        <item name="android:colorBackground">@color/Opole.BackgroundRed</item>
+        <item name="android:actionBarStyle">@style/Opole.Style.ActionBarRed</item>
+        <item name="android:textViewStyle">@style/Opole.TextViewRed</item>
+    </style>
+</resources>

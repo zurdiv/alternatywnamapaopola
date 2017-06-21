@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Security-Policy" content="default-src *; img-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="msapplication-tap-highlight" content="no">
+		<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+		<link rel="stylesheet" type="text/css" href="leaflet/leaflet.css">
+		<link rel="stylesheet" type="text/css" href="css/index.css">
+		<link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
+		<link rel="stylesheet" href="css/jqm-demos.css">
+		<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
+		<script type="text/javascript" src="leaflet/leaflet-src.js"></script>
+		<script type="text/javascript" src="js/pois.js"></script>
+		<script type="text/javascript" src="js/amo-data.js"></script>
+		<title>AlternatywnaMapaOpola</title>
+	</head>
+	<body>
+		
+		<div data-role="page" class="jqm-panel-page page" data-quicklinks="true">
+
+			<div id="splashscreen" class="amo-container-full">
+			<div class="amo-container-full-body">
+				<img id="splashimage" src="img/splash.png" />
+			</div>
+		    </div>
+
+			<div class="amo-menu" data-role="panel" id="leftpanel3"
+				 data-position="left" data-display="overlay">
+				<ul data-role="listview">
+					<li class="amo-menu-item">
+						<div class="ui-grid-solo">
+							<a href="#places-panel">
+							<img src="img/categories/pl/zobacz.png" class="img button" id="zobacz" data-rel="close"/>
+								</a>
+						</div>
+					</li>
+					<li class="amo-menu-item">
+						<div class="ui-grid-solo">
+							<a href="#places-panel">
+							<img src="img/categories/pl/odwiedz.png" class="img button" id="odwiedz" data-rel="close"/>
+								</a>
+						</div>
+					</li>
+					<li class="amo-menu-item">
+						<div class="ui-grid-solo">
+							<a href="#places-panel">
+							<img src="img/categories/pl/posmakuj.png" class="img button" id="posmakuj" data-rel="close"/>
+								</a>
+						</div>
+					</li>
+					<li class="amo-menu-item">
+						<div class="ui-grid-solo">
+							<a href="#places-panel">
+							<img src="img/categories/pl/zrelaksuj_sie.png" class="img button" id="zrelaksuj_sie" data-rel="close"/>
+								</a>
+						</div>
+					</li>
+					<li class="amo-menu-item">
+						<div class="ui-grid-solo">
+							<a href="#places-panel">
+							<img src="img/categories/pl/rozerwij_sie.png" class="img button" id="rozerwij_sie" data-rel="close"/>
+								</a>
+						</div>
+					</li>
+					<li class="amo-menu-item">
+						<div class="ui-grid-solo">
+							<a href="#places-panel">
+							<img src="img/categories/pl/poruszaj_sie.png" class="img button" id="poruszaj_sie" data-rel="close"/>
+								</a>
+						</div>
+					</li>
+					<li class="amo-menu-item">
+						<div class="ui-grid-solo">
+							<a href="#places-panel">
+							<img src="img/categories/pl/wszystkie.png" class="img button" id="wszystkie" data-rel="close"/>
+								</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+
+			<div data-role="panel" id="places-panel" data-position="left" data-display="overlay" data-theme="b">
+				<ul data-role="listview" class="places-listview">
+
+				</ul>
+				<li class="place-template-row" style="display: none;">
+				  <div class="ui-grid-solo">
+				  </div>
+				</li>
+      		</div>
+			<div class="amo-container-full">
+
+				<div class="amo-header">
+					<div class="amo-header-body">
+
+						<strong class="amo-header-title">Alternatywna Mapa Opola</strong>
+						<a href="#leftpanel3" class="amo-menu-toggle jqm-navmenu-link">
+							<span class="amo-icon"></span>
+							<span class="amo-icon"></span>
+							<span class="amo-icon"></span>
+						</a>
+
+					</div>
+				</div>
+
+				<div class="amo-map-wrapper">
+					<div class="amo-map-wrapper-body">
+						<div class="amo-map">
+							<div id="map"></div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+		
+		<!-- modal template -->
+		<div class="js-modal-template hidden">
+
+			<div class="modal">
+				<div class="modal-backdrop"></div>
+
+				<div class="modal-dialog">
+					<div class="amo-container-full">
+					<div class="amo-container-full-body">
+
+						<div class="modal-body">
+							<div class="modal-id" data-modal-id>04.</div>
+							<div class="modal-item modal-title" data-modal-title>Bistro kkkk</div>
+							<div class="modal-item modal-icons" data-modal-icons></div>
+							<div class="modal-item modal-desc" data-modal-desc>Now that we know who you are, I know who I am. I'm not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain's going to be? He's the exact opposite of the hero.</div>
+							<div class="modal-item modal-img" data-modal-img></div>
+							<div class="modal-rate" data-modal-rate></div>
+						</div>
+
+					</div>
+				</div>
+				</div>
+			</div>
+			
+		</div>
+		
+		<script type="text/javascript" src="cordova.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+		<script type="text/javascript" src="js/places.js"></script>
+		
+	</body>
+</html>

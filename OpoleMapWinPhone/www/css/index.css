@@ -1,0 +1,373 @@
+@font-face {
+	font-family: 'MyriadPro';
+	src: url('../font/text/MyriadPro-Regular_0.eot');
+	src: local('☺'), url('../font/text/MyriadPro-Regular_0.woff') format('woff'),
+	url('../font/text/MyriadPro-Regular_0.ttf') format('truetype'),
+	url('../font/text/MyriadPro-Regular_0.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadProBold';
+	src: url('../font/text/MyriadPro-Bold_0.eot');
+	src: local('☺'), url('../font/text/MyriadPro-Bold_0.woff') format('woff'),
+	url('../font/text/MyriadPro-Bold_0.ttf') format('truetype'),
+	url('../font/text/MyriadPro-Bold_0.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadWebPro';
+	src: url('../font/text/MyriadWebPro.eot');
+	src: local('☺'), url('../font/text/MyriadWebPro.woff') format('woff'),
+	url('../font/text/MyriadWebPro.ttf') format('truetype'),
+	url('../font/text/MyriadWebPro.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MyriadProCondensed';
+	src: url('../font/text/MyriadPro-Cond_0.eot');
+	src: url('../font/text/MyriadPro-Cond_0.woff') format('woff'),
+	url('../font/text/MyriadPro-Cond_0.ttf') format('truetype'),
+	url('../font/text/MyriadPro-Cond_0.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'denseregular';
+    src: url('../font/numbers/dense-regular-webfont.eot');
+    src: url('../font/numbers/dense-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/numbers/dense-regular-webfont.woff2') format('woff2'),
+         url('../font/numbers/dense-regular-webfont.woff') format('woff'),
+         url('../font/numbers/dense-regular-webfont.ttf') format('truetype'),
+         url('../font/numbers/dense-regular-webfont.svg#denseregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+* {
+	-webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+h1 {
+	text-align:left;
+}
+
+.amo-menu img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.hidden {
+	display: none;
+	visibility: none;
+	opacity: 0;
+}
+
+.page {
+	width: 100%;
+	height: 100%;
+}
+
+.ui-panel .ui-panel-inner {
+    overflow: auto;
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* containers */
+/* * * * * * * * * */
+
+.amo-container-full {
+	position: absolute;
+	display: table;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+.amo-container-full-body {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+
+/* splash */
+/* * * * * * * * * */
+
+#splashscreen {
+	z-index: 200;
+	background-color: #f2b71a;
+}
+
+#splashimage {
+	display: block;
+	width: 80%;
+	max-width: 360px;
+	margin: 0 auto;
+}
+
+
+/* menu */
+/* * * * * * * * * */
+
+.amo-menu,
+.amo-menu-item {
+	background-color: #373730 !important;
+}
+
+.amo-menu-item {
+	border-color: transparent !important;
+}
+
+.place{
+	padding: 6px 18px !important;
+	font-family: MyriadProCondensed;
+	font-size: 20px;
+}
+
+.ui-panel{
+	overflow-y: auto;
+}
+
+/* header */
+/* * * * * * * * * */
+
+.amo-header {
+	display: table-row;
+	height: 54px;
+	background-color: #373730;
+}
+
+.amo-header-body {
+	position: relative;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.amo-menu-toggle {
+	position: absolute;
+	left: 0; top: 0; bottom: 0;
+	padding-top: 19px;
+	width: 48px;
+}
+
+.amo-icon {
+	position: relative;
+	display: block;
+	width: 18px;
+	height: 2px;
+	background-color: #dddecf;
+	margin: 0 auto 4px;
+}
+
+.amo-header-title {
+	padding-left: 48px;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-family: MyriadWebPro;
+	font-weight: bold;
+	color: #dddecf;
+	text-align: left;
+	text-shadow: none;
+}
+
+.ami-icon:last-child {
+	margin-bottom: 0;
+}
+
+/* map */
+/* * * * * * * * * */
+
+.amo-map-wrapper {
+    position: relative;
+	display: table-row;
+	height: auto;
+	background-color: #f2b71a;
+}
+.amo-map-wrapper-body {
+	display: table-cell;
+}
+
+.amo-map {
+	position: absolute;
+	left: 0; top: 54px; right: 0; bottom: 0;
+}
+
+
+/* leaflet */
+/* * * * * * * * * */
+
+.leaflet-container,
+.leaflet-map-pane {
+    position: relative;
+	width: 100%;
+	height: 100%;
+	background: #54544a;
+}
+
+.leaflet-div-icon {
+	background: transparent;
+	border: none;
+}
+
+.leaflet-marker-icon .number{
+	position: relative;
+	top: -52px;
+	left: 7px;
+	width: 25px;
+	text-align: center;
+}
+
+.marker-image{
+	width: 40px;
+	height: 50px;
+}
+
+.number{
+	width: 40px;
+	height: 50px;
+	font-family: denseregular;
+	font-size: 22px;
+	color: #dedfd0;
+}
+
+.number-rate{
+	width: 40px;
+	height: 50px;
+	font-family: denseregular;
+	font-size: 22px;
+	color: #dedfd0;
+	position: relative;
+	top: -42px;
+}
+/* modal*/
+/* * * * * * * * * */
+
+.modal {
+	z-index: 300;
+}
+
+.modal-dialog {
+	overflow-y: auto;
+}
+
+.modal,
+.modal-backdrop,
+.modal-dialog {
+	position: absolute;
+	left: 0; top: 0; right: 0px; bottom: 0;
+}
+
+.modal-backdrop {
+	background-color: rgba(0,0,0,.75);
+}
+
+.modal-body {
+	position: relative;
+	display: block;
+	width: 90%;
+	padding: 24px;
+	border-radius: 24px;
+	margin: 0 auto;
+	background-color: #4c4b43;
+	box-sizing: border-box;
+	font-family: MyriadPro;
+	font-size: 14px;
+	font-weight: bold;
+	color: #dedfd0;
+	text-align: center;
+	text-shadow: none;
+}
+
+.modal-body:before {
+	content: '';
+	position: absolute;
+	left: 6px; top: 6px; right: 6px; bottom: 6px;
+	border: 1px solid #66635c;
+	border-radius: 18px;
+	pointer-events: none;
+}
+
+/* margin */
+.modal-item {
+	margin-bottom: 12px;
+}
+
+/* title */
+.modal-id,
+.modal-title {
+	font-size: 24px;
+	font-family: MyriadProBold;
+	text-transform: uppercase;
+}
+
+.modal-desc{
+	font-family: MyriadWebPro;
+}
+/* photo */
+.modal-img img {
+	width: 100%;
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+
+/* rate & icons styling */
+.modal-icons,
+.modal-rate {
+	text-align: center;
+}
+
+.modal-rate {
+	padding-bottom: 21px;
+}
+
+.modal-rate-star{
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+}
+
+.modal-icon{
+	width: 40px;
+	height: 40px;
+}
+
+.modal-icons img,
+.modal-rate img {
+	display: inline-block;
+}
+
+/* colors */
+.amo-colors-grey-dark{
+	background: #54544a;
+}
+
+.amo-colors-grey-light{
+	background: #8f8b81;
+}
+
+.amo-colors-black{
+	background: #373730;
+}
+
+.amo-colors-light{
+	background: #dddecf;
+}

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.binartech.opolemap"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minWidth="@dimen/dialog_width"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="10dp" >
+        <include
+            android:id="@+id/marker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout="@layout/item_marker" />
+        <com.binartech.opolemap.core.TypefaceTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Zamek na Groszowickiej"
+            android:textColor="@android:color/black"
+            android:textSize="22dp"
+            app:fontface="libelsuit" />
+    </LinearLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/black" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+        <com.binartech.opolemap.core.TypefaceTextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Historia zamku jest bardzo ładna"
+            android:textColor="@android:color/black"
+            android:textSize="21dp"
+            app:fontface="libelsuit" />
+    </ScrollView>
+    <LinearLayout
+        android:id="@+id/features"
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+        <ImageView
+            android:id="@+id/feature_book_crossing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/feature_cb" />
+        <ImageView
+            android:id="@+id/feature_boards"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/feature_gp" />
+        <ImageView
+            android:id="@+id/feature_disabled_people_aware"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/feature_np" />
+        <ImageView
+            android:id="@+id/feature_gardens"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/feature_o" />
+        <ImageView
+            android:id="@+id/feature_kid_aware"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/feature_pd" />
+        <ImageView
+            android:id="@+id/feature_electronic_payment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/feature_pk" />
+        <ImageView
+            android:id="@+id/feature_bicycle_parking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/feature_snr" />
+        <ImageView
+            android:id="@+id/feature_wifi_access"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/feature_wf" />
+    </LinearLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="5dp"
+        android:background="@android:color/black" />
+    <Button
+        android:id="@+id/button_ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:minWidth="160dp"
+        android:text="@android:string/ok" />
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="asia.ivity.android.tiledscrollview.TiledScrollView"><attr format="string" name="file_pattern"/><attr format="integer" name="tile_width"/><attr format="integer" name="tile_height"/><attr format="integer" name="image_width"/><attr format="integer" name="image_height"/><attr format="boolean" name="zoom_buttons"/></declare-styleable>
+    <!-- From: file:/home/ppoteralski/AndroidStudioProjects/OpoleMapAndroid/tilingScrollView/build/intermediates/bundles/debug/res/values/values.xml -->
+    <eat-comment/>
+    <string name="app_name">asia.ivity.android.tiledscrollview</string>
+</resources>

@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  AlternatywnaMapaOpola
+
+  Created by Grzegorz Frydrych on 27.05.2013.
+  Copyright (c) 2013 Binartech. All rights reserved.
+*/
+
+"PlaceCategory" = "Categories";
+"PlaceDesc" = "Place info";
+"Map" = "Map";
+"Category_all" = "All";
+
+"BC" = "Bookcrossing";
+"PL" = "Board games";
+"NP" = "Disabled-friendly";
+"OO" = "Cafeteria garden";
+"PD" = "Children friendly";
+"PK" = "Payment by credit card";
+"SR" = "Bicycle stand";
+"WF" = "WiFi";
+
+"BackButton" = "Back to the map";

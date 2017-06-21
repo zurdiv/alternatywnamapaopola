@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.binartech.opolemap"
+    android:installLocation="preferExternal"
+    android:versionCode="4"
+    android:versionName="1.3" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="14" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.binartech.opolemap.core.App"
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_full_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.binartech.opolemap.activities.SplashActivity"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Sherlock.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.binartech.opolemap.activities.CategoriesActivity"
+            android:exported="false"
+            android:label="@string/select_category"
+            android:theme="@style/Opole.ThemeRed" />
+        <activity
+            android:name="com.binartech.opolemap.activities.PlacesActivity"
+            android:exported="false"
+            android:label="@string/select_place"
+            android:theme="@style/Opole.ThemeRed" >
+        </activity>
+        <activity
+            android:name="com.binartech.opolemap.activities.MapActivity"
+            android:exported="false"
+            android:theme="@style/Opole.ThemeRed" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Lp</key>
+		<integer>1</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66965</real>
+		<key>Longitude</key>
+		<real>17.91987</real>
+		<key>Title</key>
+		<string>Holy Cross Cathedral</string>
+		<key>Description</key>
+		<string>The Cathedral is interesting from the outside due to its gothic architecture, however it is also worth to visit it on the inside. It features a baptismal font from the 15th century with the emblem of Opole, renowned painting of Our Lady of Opole, gravestone of the last Piast of Opole, Jan Dobry as well as the genealogical tree of the Piast dynasty in Opole from approx. 1700.</string>
+		<key>Feature</key>
+		<string>SR NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>2</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66853</real>
+		<key>Longitude</key>
+		<real>17.9207</real>
+		<key>Title</key>
+		<string>Szpitalna Street</string>
+		<key>Description</key>
+		<string>The oldest street in Opole. A Jewish synagogue built in 1841, which lasted throughout the &quot;noc kryształowa&quot; (Crystal Night) and the II World War was located at Szpitalna 1, a building which is now the property of the TVP Opole television station. The contemporary &quot;Caritas&quot; House of Social Service is the former hospital of Saint Alexander constructed in 1400.</string>
+		<key>Feature</key>
+		<string>NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>3</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66723</real>
+		<key>Longitude</key>
+		<real>17.9197</real>
+		<key>Title</key>
+		<string>Piastowska Tower</string>
+		<key>Description</key>
+		<string>Prevailing over the amphitheatre, the tower is the only remnant of the old Piastowski Castle and one of the oldest monuments of the middle-age defence architecture in Poland. After overcoming 163 steps, it is possible to admire the vast panorama of the city from the top of the tower. It is worth it!</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>4</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66653</real>
+		<key>Longitude</key>
+		<real>17.9193</real>
+		<key>Title</key>
+		<string>Castle Lake</string>
+		<key>Description</key>
+		<string>An ideal place for a walk. Today, it is possible to have a tasty dinner in the monumental Ice House, which was the office of the Ice-skating Society. The fountain over the lake charms the visitors with a spectacle of lights, sounds and water.</string>
+		<key>Feature</key>
+		<string>SR NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>5</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66856</real>
+		<key>Longitude</key>
+		<real>17.92372</real>
+		<key>Title</key>
+		<string>The tenement house at Saint Wojciech Street 9</string>
+		<key>Description</key>
+		<string>A house from the end of the XIX century located near the Market Square is the property of the Muzeum Śląska Opolskiego (Museum of Opole Silesia). The renovated tenement house offers visitation of five quarters, the middle-class interiors of which, dating back to 1890-1960 were restored and make it possible to see the living conditions of an average citizen of Opole from those times.</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>6</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66913</real>
+		<key>Longitude</key>
+		<real>17.92579</real>
+		<key>Title</key>
+		<string>The University Hill</string>
+		<key>Description</key>
+		<string>Amongst the well-tended greenery, it is possible to see and admire many interesting monument structures, such as the Chapel of St. Wojciech with its epitaph tablets from 1625 placed in front of the door, the baroque Column of Mary, St. Christopher&apos;s Monument, the legendary well of St. Wojciech or a set of female statues symbolizing the four seasons. The eastern part includes the Artist&apos;s Square, where some contemporary statues of prominent Polish poets (Agnieszka Osiecka), singers (Marek Grechuta) and people of the theatre (Jerzy Grotowski) can be found, as they were associated with Opole due to their profession.</string>
+		<key>Feature</key>
+		<string>SR NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>7</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66666</real>
+		<key>Longitude</key>
+		<real>17.9234</real>
+		<key>Title</key>
+		<string>Wolności Square</string>
+		<key>Description</key>
+		<string>Prior to World War II, the Regency building was located here and its basement still awaits for uncovering. Today, the square features a colourful fountain constructed in the 1950&apos;s by the famous Florian Jesionowski. Visitors can relax on numerous benches under centuries-old plane trees, stay warm in the summer sun and observe the plays of passionate chess players who organise meetings at the square.</string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>8</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66708</real>
+		<key>Longitude</key>
+		<real>17.92293</real>
+		<key>Title</key>
+		<string>The bus stop at Liberty Square</string>
+		<key>Description</key>
+		<string>At the location of a former hackney shop prior to the II World War, a reinforced-concrete bus shelter was built at the turn of the 60s and 70s, designed by Florian Jesionowski, an architect from Opole. Currently, the sculpture-structure is a taxi stop and the intriguing monolithic form underlined in the evenings with cold-white lighting resembles the Star Trek spaceship.</string>
+		<key>Feature</key>
+		<string>NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>9</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66597</real>
+		<key>Longitude</key>
+		<real>17.92233</real>
+		<key>Title</key>
+		<string>Grosz Bridge</string>
+		<key>Description</key>
+		<string>Built around 1906. Also referred to as the &quot;Green Bridge&quot; due to its colour. It is located in the western part of Plac Wolności. A fee of 1 Grosz – hence the name – used to be charged for crossing the bridge.  The fee was charged by a fee collector, for whom a house was built next to the bridge. The house was constructed under a branchy hornbeam and referred to at the time as &quot;The Swiss House.&quot; Today it is home for the famous &quot;Grabówka&quot; Creperie.</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>10</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66859</real>
+		<key>Longitude</key>
+		<real>17.9201</real>
+		<key>Title</key>
+		<string>The Venice of Opole</string>
+		<key>Description</key>
+		<string>Charming tenement houses constructed on the foundations of defensive walls over the Młynówka Channel, formerly an important trans-shipment port, irresistibly lead to associations with the famous Italian city. The historical houses, reflected in the water, lightened in the evenings by subtle lighting produce an attractive sight and a photo scenery.</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>11</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.6686</real>
+		<key>Longitude</key>
+		<real>17.92232</real>
+		<key>Title</key>
+		<string>The Market Square</string>
+		<key>Description</key>
+		<string>A typical medieval shape with the City Hall erected in 1864 and rebuilt in 1936 in the imitation of the Palazzo Vecchio in Florence. On the west side, the building no.1 is the location of a tenement house preserved since medieval times, referred to as &quot;The Prince Tenement House&quot; or &quot;Pod Lwem&quot; (Under the Lion, named after the sculpture on the wall). The east side includes the Aleja Gwiazd Polskiej Piosenki (the Alley of Stars of the Polish Song), which is developed since 2004, and in the summer season, it is the location of Muzyczny Kiosk (Musical Kiosk), in which it is possible to listen to the music of Polish artists. In summer, the Market Square is the location of concerts from the &quot;Opole Akustycznie&quot; (Opole - Acoustically) series.</string>
+		<key>Feature</key>
+		<string>SR NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>12</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66221</real>
+		<key>Longitude</key>
+		<real>17.92655</real>
+		<key>Title</key>
+		<string>The PKP Railway station</string>
+		<key>Description</key>
+		<string>A building constructed at the turn of the XIX and XX centuries with a beautiful concourse.  The characteristic traits include the layout of platforms, which are not placed in a line, but form an arc, as well as the &quot;telephone effect&quot; - the acoustics of the building, which makes it possible to hear a conversation of people at the opposite corner of the building. The recently renovated waiting room includes elegant chandeliers, marble floors and restored wall paintings.</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>13</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66549</real>
+		<key>Longitude</key>
+		<real>17.9277</real>
+		<key>Title</key>
+		<string>Daszyńskiego Square</string>
+		<key>Description</key>
+		<string>The Friedrichplatz until 1945. A charming square with a well thought out architecture of benches, flowery parterres and street lights. The center of the square features a fountain built in 1907, which is lit in the evenings. Cerest, the goddess of harvest rises above the symbolic sculptures on a shell pedestal.</string>
+		<key>Feature</key>
+		<string>SR NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>14</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.67557</real>
+		<key>Longitude</key>
+		<real>17.9411344</real>
+		<key>Title</key>
+		<string>&quot;The Hill of Death&quot;</string>
+		<key>Description</key>
+		<string>Legendary hill of limestone in the centre of an apartment housing development, which became an inspiration for the comic character of Wilq, the authors of which are brothers from Opole, which are graphic artists. An interesting vantage point and a treat for sports amateurs with no lack of courage. 10 minutes walk from the border map.</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>15</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.67557</real>
+		<key>Longitude</key>
+		<real>17.9232</real>
+		<key>Title</key>
+		<string>Kamionka Silesia</string>
+		<key>Description</key>
+		<string>A former marl pit of &quot;Silesia&quot; cement plant non-existent today. In summer, the turquoise water invites people for refreshing baths, while on a sandy headland it is possible to sunbathe, have a picnic or play volleyball. The location is also visited by scuba divers. 30 minutes walk from the border map.</string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>16</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.66018</real>
+		<key>Longitude</key>
+		<real>17.9172</real>
+		<key>Title</key>
+		<string>Park Nadodrzański</string>
+		<key>Description</key>
+		<string>Walking alleys and bicycle router, a playground for children, new benches and small architecture elements, such as the outdoor scenery and a climbing wall make it a perfect location for relaxation of recreation amongst the rich greenery. It is possible to ride a bicycle or rollerblades on the Karol Musioł Boulevard along the Odra River.</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>17</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.65663</real>
+		<key>Longitude</key>
+		<real>17.9233</real>
+		<key>Title</key>
+		<string>Bolko Island and the ZOO</string>
+		<key>Description</key>
+		<string>First referred to in 1213 as the &quot;Kampe&quot; (&quot;Kępa&quot; – Clump). Since 2004, it is called the Bolko Island in the honour of a prince of Piasts.  Currently, it is a popular city park, with a 400 year old Piast Oak (circumference of 410 cm). Location of the ZOO, many walking alleys and bicycle routes, a few ponds and channels, as well as the so called &quot;Glade&quot; - a meeting place for the Opole youth and summer yoga classes.</string>
+		<key>Feature</key>
+		<string>NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>18</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.65674</real>
+		<key>Longitude</key>
+		<real>17.932</real>
+		<key>Title</key>
+		<string>Jewish Cemetery</string>
+		<key>Description</key>
+		<string>A cemetery of the Jewish society founded in 1822 in Nowa Wieś Królewska, near the current ul. Graniczna. On an area of 0.3 ha, 150 graves are preserved, the oldest of which dates back to 1822. In 1840, Margaliot Schnitzer, grandmother of Emin Pasza - a popular traveller, doctor and politic, was buried at the cemetery. A characteristic hall of fame of the Opole Jews, where rabies, merchants, doctor, lawyers and entrepreneurs lay side-by-side.</string>
+		<key>Feature</key>
+		<string>NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>19</integer>
+		<key>Category</key>
+		<string>Must See</string>
+		<key>Latitude</key>
+		<real>50.65625</real>
+		<key>Longitude</key>
+		<real>17.9305</real>
+		<key>Title</key>
+		<string>Bolko Cement Plant and Bolko stoneware</string>
+		<key>Description</key>
+		<string>Remnants of a cement plant from 1901, which stopped production in 1979, with a characteristic chimney and a water tower. The City Council performed recultivation in the former excavation site of the cement plant, making it an attractive recreational water reservoir filled with clean water filled with fish. 20 minutes walk from the border map.</string>
+		<key>Feature</key>
+		<string>NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>20</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66273</real>
+		<key>Longitude</key>
+		<real>17.91715</real>
+		<key>Title</key>
+		<string>BP Atelier</string>
+		<key>Description</key>
+		<string>The first author&apos;s gallery in Opole was opened and managed by Bolesław Polnar. In a 100 square metre apartment on Pasieka island, he exhibits not only his own work, but also works of renown artists and students. The gallery also features a Poetry Salon, many cultural events, i.e. author&apos;s sessions, location events or charity events. Open: MON-FRI 11.00 a.m. - 5.00 p.m.</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>21</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.6742</real>
+		<key>Longitude</key>
+		<real>17.93153</real>
+		<key>Title</key>
+		<string>Oleska 45 Culture Center/&quot;Meduza&quot; Cinema</string>
+		<key>Description</key>
+		<string>A place in which the resilient non-governmental organizations perform cultural, social and educational activities for the citizens of Opole and the surrounding areas. Each Tuesday and Friday from 7.00 PM, the Culture Center invites you to the Meduza Cinema.</string>
+		<key>Feature</key>
+		<string>SR PD</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>22</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66585</real>
+		<key>Longitude</key>
+		<real>17.92396</real>
+		<key>Title</key>
+		<string>The Opole Concert Hall of Józef Elsner</string>
+		<key>Description</key>
+		<string>Residence of Opolska Orkiestra Symfoniczna i Kameralna (Opole Symphonic and Private Orchestra) and Chóry (Choirs).  Local artists and guests from all around the world perform on the stage of the concert hall. Koncerty Promenadowe (Promenade Concerts) take place annually in the summer season.</string>
+		<key>Feature</key>
+		<string>PK WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>23</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66865</real>
+		<key>Longitude</key>
+		<real>17.92146</real>
+		<key>Title</key>
+		<string>Author Gallery</string>
+		<key>Description</key>
+		<string>The gallery runs exhibitions and trades in the field of all modern fine arts. It is possible to see and buy paintings, graphic arts and sculptures created in various techniques. The functional arts section features jewellery, lamps, vases as well as single and unique pieces of furniture. Open: Mon-Fri 10.00 am - 6.00 pm, Sat 10.00 am - 2.00 pm.</string>
+		<key>Feature</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>24</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66959</real>
+		<key>Longitude</key>
+		<real>17.91954</real>
+		<key>Title</key>
+		<string>White Crow Gallery</string>
+		<key>Description</key>
+		<string>Location of permanent exhibition and sales of artistic handicraft of disabled people founded by Fundacja Dom Rodzinnej Rehabilitacji Dzieci z Porażeniem Mózgowym Teresy i Kazimierza Jednorogów (Family Rehabilitation House for Children with Cerebral Palsy Foundation of Teresa and Kazimierz Jednoróg). It is possible to see and buy paintings, artistic and functional ceramics, greeting cards, internal decoration and polygraphic products in the gallery. Open: Mon-Sat 10.00 am - 6.00 pm.</string>
+		<key>Feature</key>
+		<string>PD NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>25</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66897</real>
+		<key>Longitude</key>
+		<real>17.93291</real>
+		<key>Title</key>
+		<string>Modern Art Gallery/Artpunkt</string>
+		<key>Description</key>
+		<string>A cultural institution organizing numerous exhibitions of artists from Opole and around the country. International exhibitions, headed by the annual World Press Photo exhibition are presented in the gallery. The tenement house near the gallery features the newly opened Artpunkt artistic education center, where courses in various fields of art, i.e. painting, artistic ceramics, sculptures both for children and adults are being run. A magazine, titled with the name of the gallery is also published as another result of the attention-worthy publishing entrepreneurship of the Modern Art Gallery. Admission is free on Sundays.  Open: Mon-Sun 10.00 am – 6.00 pm.</string>
+		<key>Feature</key>
+		<string>PK PD WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>26</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66576</real>
+		<key>Longitude</key>
+		<real>17.92168</real>
+		<key>Title</key>
+		<string>Cultural Kiosk/Culture Street</string>
+		<key>Description</key>
+		<string>An unofficial cultural information center of Opole, where it is location to learn about interesting events in the city, buy a concert ticket or relax on original chairs outside of the building. Next to the kiosk, the annual Ulica Kultury project is being held, thanks to which the surrounding area of the kiosk changes each year, e.g. the Ramp covered with frescos. Open: Mon-Fri 7.00 am - 7.00 pm, Sat 10.00 am - 3.00 pm.</string>
+		<key>Feature</key>
+		<string>PK OO PD </string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>27</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.67048</real>
+		<key>Longitude</key>
+		<real>17.92647</real>
+		<key>Title</key>
+		<string>Helios</string>
+		<key>Description</key>
+		<string>The only multi-auditorium cinema in Opole. Apart from screening of commercial movies, it also invites visitors to &quot;Women&apos;s nights&quot;, while on Thursdays - to the Connoisseur&apos;s Cinema events. Topical Night Movie Marathons are also organised.</string>
+		<key>Feature</key>
+		<string>PK SR NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>28</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66665</real>
+		<key>Longitude</key>
+		<real>17.92213</real>
+		<key>Title</key>
+		<string>The City Public Library</string>
+		<key>Description</key>
+		<string>Located in a beautiful, rebuilt tenement house combining classic and contemporary architectures. The two floors feature libraries: for adults and &quot;Pokój Bajek&quot; (Fable Room) for children, reading rooms: with magazines and a computer room (Internet access),  a media libr ary and a self-service machine for lending books.  The library offers many attractions, meetings with interesting authors as well as vernissages and exhibitions (ZAMOSTEK Gallery). Open Mon 12.00 am – 7.30 pm, Tue-Thu 9.00 am – 7.30 pm, Sat 11.30 am – 5.30 pm. </string>
+		<key>Feature</key>
+		<string>SR PL PD NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>29</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66542</real>
+		<key>Longitude</key>
+		<real>17.92143</real>
+		<key>Title</key>
+		<string>Youth Culture Center/&quot;Studio&quot; Cinema</string>
+		<key>Description</key>
+		<string>Institution engaged in all kinds of non-school education. Variety of theatrical and literary, musical, dancing, sports and education classes are being conducted in themed workshops. Festiwal Filmów dla Dzieci Zero Nudy (Festival of Movies for Children - Zero Boredom) is organized annual at the center. The Studio Cinema invites people every Wednesday at 6.00 pm and 8.30 pm to the only studio cinema in Opole for movie screenings. Open: Mon-Fri 8.00 am – 6.00 pm.</string>
+		<key>Feature</key>
+		<string>SR PD WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>30</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66895</real>
+		<key>Longitude</key>
+		<real>17.92461</real>
+		<key>Title</key>
+		<string>Museum of Opole Silesia</string>
+		<key>Description</key>
+		<string>The main residence is located in a baroque building erected from connecting two tenement house. An observation terrace is located on the roof of the built pavilion. It is possible to see permanent and temporary exhibitions in the modern museum halls. The Museum of Opole Silesia Gallery of Jan Cybis is open at ul. Ozimska 19. The museum also owns the following houses:  the tenement house from 1818 (ul. Św. Wojciecha 13) and the middle-class house (ul. Św. Wojciecha 9). Open: Tue-Fri 9.00 am - 3.30 pm, Sat 10.00 am - 3.00 pm, Sun 12.00 am - 5.00 pm.</string>
+		<key>Feature</key>
+		<string>PD NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>31</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.67277</real>
+		<key>Longitude</key>
+		<real>17.909604</real>
+		<key>Title</key>
+		<string>Museum of Opole Countryside</string>
+		<key>Description</key>
+		<string>An institution popularizing the folk culture of the Opole region. The heritage park located in Opole-Bierkowice features countryside architectural structures and monumental objects illustrating the living conditions of countryside folk from the period of XVIII until the early XX centuries. The park areas of the museum features a series of folklore events, that is Opole Żniwiok and Jarmark Wielkanocny (Easter Fair). Open: April-October – Tue-Sun 10.00 am – 6.00 pm, Mon 10.00 am – 3.00 pm / October-April - Mon-Fri 10.00 am - 3.00 pm. 30 minutes walk from the border map.</string>
+		<key>Feature</key>
+		<string>SR PD WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>32</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.6672</real>
+		<key>Longitude</key>
+		<real>17.9178</real>
+		<key>Title</key>
+		<string>National Center for the Polish Song/Amphitheatre</string>
+		<key>Description</key>
+		<string>Supra-regional cultural institution. The Private Halls and the stage of the renovated Amphitheatre feature organized concerts of the most important Polish bands and artists, outdoor events and other cultural events. Piwnica Artystyczna (Artistic Basement) is also open. The ticket offices are open: Mon-Sun 8.00 am - 9.00 pm (break: 6.00 pm - 7.00 pm).</string>
+		<key>Feature</key>
+		<string>PK SR PD NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>33</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.67309</real>
+		<key>Longitude</key>
+		<real>17.93264</real>
+		<key>Title</key>
+		<string>Student Culture Center</string>
+		<key>Description</key>
+		<string>The modern building features a show and concert hall with a professionally designed stage, assembly hall and professional workshops for musicians, dancers and fine artists. The recording studio in the residence of the Radio-Sygnały (Signals Radio) station. The Student Culture Center is the place of activities of students&apos; organizations (council), academic societies, the student choir, as well as for any student that wants to develop his or her interests.</string>
+		<key>Feature</key>
+		<string>SR NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>34</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.6692</real>
+		<key>Longitude</key>
+		<real>17.93292</real>
+		<key>Title</key>
+		<string>Theatre of Jan Kochanowski</string>
+		<key>Description</key>
+		<string>Directors from across Poland (e.g. Agnieszka Holland, Maja Kleczewska) present their plays on three stages. One of the biggest theatrical festivals in the country – Opolskie Konfrontacje Teatralne &quot;Klasyka Polska&quot; (Opole Theatrical Confrontations &quot;The Polish Classics&quot;) – is organized annually in the theatre. ODRAMA – a festival of open trials is a series of meetings devoted to the modern drama. Aside from interesting plays, the theatre also offers theatrical classes for children and adults. The ticket offices are open: Tue-Fri 10.00 am – 2.00 pm, 3.00 pm – 6.00 pm/7.00 pm, Sat-Sun one hour before the spectacle.</string>
+		<key>Feature</key>
+		<string>WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>35</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66959</real>
+		<key>Longitude</key>
+		<real>17.9279</real>
+		<key>Title</key>
+		<string>Theatre of the Puppet and the Actor of Alojzy Smolka</string>
+		<key>Description</key>
+		<string>The stages of the theatre feature plays for children and adults Alice. Every two years, the theatre organizes Ogólnopolski Festiwal Teatrów Lalek (Nationwide Festival for Puppet Theatres). The ticket offices are open: Tue, Wed, Fri 8.30 am - 2.30 pm, Tue 8.30 am - 12.30 pm/3.15 pm- 5 .15 pm.</string>
+		<key>Feature</key>
+		<string>PD</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>36</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66164</real>
+		<key>Longitude</key>
+		<real>17.9322</real>
+		<key>Title</key>
+		<string>Eco Studio Theatre</string>
+		<key>Description</key>
+		<string>Founded and managed by Andrzej Czernik, an actor associated with the Theatre of Jan Kochanowski. The repertoire includes interesting spectacles, also musical and dancing plays. Themed vernissages as part of the &quot;Zimowy Las Sztuki&quot; (Winter Arts Forest) series, performances and outdoor plays.</string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>37</integer>
+		<key>Category</key>
+		<string>Must Visit</string>
+		<key>Latitude</key>
+		<real>50.66493</real>
+		<key>Longitude</key>
+		<real>17.92185</real>
+		<key>Title</key>
+		<string>Provincial Public Library of Emanuel Smołka</string>
+		<key>Description</key>
+		<string>Located at a palace and park complex. The lending library and reading room offer a rich collection of belles-lettres and scientific literature. The library includes the Department of Special and Historical Collections and the Department of Foreign Language Collections (The Library Movie Club on Wednesdays from 5.00 pm). The Music Library and Austrian Library are the branches of the main library. Open: Mon-Fri 9.00 am - 3.30 pm.</string>
+		<key>Feature</key>
+		<string>SR PD WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>38</integer>
+		<key>Category</key>
+		<string>Relax</string>
+		<key>Latitude</key>
+		<real>50.66653</real>
+		<key>Longitude</key>
+		<real>17.92453</real>
+		<key>Title</key>
+		<string>&quot;Ptyś&quot; Cake Shop</string>
+		<key>Description</key>
+		<string>One of the oldest and most famous cake shops in the city. Its menu includes various types of baking and deserts, which can be ordered on the spot. The shop&apos;s crème rolls will make even the biggest sour patches feel better.</string>
+		<key>Feature</key>
+		<string>PK OO PD NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>39</integer>
+		<key>Category</key>
+		<string>Relax</string>
+		<key>Latitude</key>
+		<real>50.66461</real>
+		<key>Longitude</key>
+		<real>17.92182</real>
+		<key>Title</key>
+		<string>&quot;Jasminum&quot; Tea-House</string>
+		<key>Description</key>
+		<string>A quiet place amongst the greenery, full of aromas of teas from all over the world. The interior with a unique atmosphere and a terrace with the view on the centuries-old beech tree, known from the TV Studio &quot;Pod Bukiem&quot; (Under the Beech), where it is possible to relax with a glass of wine or a mug of beer, read something or play cards. Regular photo exhibitions, &quot;Pay it forward&quot; mission - book and CD trading, Wi-Fi. Open: Mon-Sun 11.00 am - 10.00 pm or until the last client leaves.</string>
+		<key>Feature</key>
+		<string>PK SR PL OO PD BC WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>40</integer>
+		<key>Category</key>
+		<string>Relax</string>
+		<key>Latitude</key>
+		<real>50.66998</real>
+		<key>Longitude</key>
+		<real>17.935</real>
+		<key>Title</key>
+		<string>&quot;Masala Tea House&quot;</string>
+		<key>Description</key>
+		<string>Place of relaxation for busy people, at which visitors can try various type of teas and oriental delicacies with humus and aloe juice being the most famous. Relaxation on comfortable pillows gets even better with Hindu music and the smell of incense and shisha.</string>
+		<key>Feature</key>
+		<string>PK PL BC WF PD</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>41</integer>
+		<key>Category</key>
+		<string>Relax</string>
+		<key>Latitude</key>
+		<real>50.6719</real>
+		<key>Longitude</key>
+		<real>17.9305</real>
+		<key>Title</key>
+		<string>&quot;Book a Coffee&quot; Cafeteria</string>
+		<key>Description</key>
+		<string>Founded by the University of Opole with the students in mind. It offers various types of coffee, tea, hot chocolate, milk and fruit cocktails. Additionally, fresh sandwiches and cakes baked at the cafeteria. Academic publishings are also on sale. Wi-Fi, bookcrossing mission and Cashback. Open: Mon-Sun 7.00 am – 8.30 pm.</string>
+		<key>Feature</key>
+		<string>PK PL OO PD BC WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>42</integer>
+		<key>Category</key>
+		<string>Relax</string>
+		<key>Latitude</key>
+		<real>50.66651</real>
+		<key>Longitude</key>
+		<real>17.93145</real>
+		<key>Title</key>
+		<string>&quot;Kofeina&quot; Cafeteria</string>
+		<key>Description</key>
+		<string>Wonderful, perfect coffees made of 100% freshly grinded Arabica. Latte prepared like a tasty piece of art. Delicious sweet (excellent tarts) and salty snacks. Unique, non-pasteurized beers. Wi-Fi, newspapers and board games. The cafeteria interior changes due to regular vernissages, it is also a place of interesting cultural events. Asylum in the city center. Open: Mon-Fri 8.00 am - 10.00 pm, Sat 10.00 am - 10.00 pm, Sun 12.00 am - 8.00 pm.</string>
+		<key>Feature</key>
+		<string>PK SR PL OO PD BC WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>43</integer>
+		<key>Category</key>
+		<string>Relax</string>
+		<key>Latitude</key>
+		<real>50.65625</real>
+		<key>Longitude</key>
+		<real>17.9212</real>
+		<key>Title</key>
+		<string>&quot;Laba&quot; Cafeteria</string>
+		<key>Description</key>
+		<string>Cafeteria in the centre of the Bolko Island, far away from the city&apos;s bustle. It offers a wide selection of coffees, teas, cakes, sandwiches and an interesting and useful picnic option. It is worth to take a break during a walk or bike riding. 10 minutes walk from the border map.</string>
+		<key>Feature</key>
+		<string>PK SR OO PD NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>44</integer>
+		<key>Category</key>
+		<string>Relax</string>
+		<key>Latitude</key>
+		<real>50.66976</real>
+		<key>Longitude</key>
+		<real>17.92165</real>
+		<key>Title</key>
+		<string>&quot;Pożegnanie z Afryką&quot; Cafeteria</string>
+		<key>Description</key>
+		<string>Specialised shop and cafeteria in one. The offer includes a wide selection of coffees from all over the world with various flavours and aromas. The climatic locale is an ideal location for connoisseurs of this drink, however amateurs of teams and sweets will also find something for themselves.</string>
+		<key>Feature</key>
+		<string>PK PD</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>45</integer>
+		<key>Category</key>
+		<string>Relax</string>
+		<key>Latitude</key>
+		<real>50.66951</real>
+		<key>Longitude</key>
+		<real>17.92077</real>
+		<key>Title</key>
+		<string>&quot;Coffemoment&quot; Cafeteria</string>
+		<key>Description</key>
+		<string>A positive place in a historical tenement house near the Market Square. Delicious coffees, teas, smoothies and bakery since early morning. Relaxation with good music, book, daily newspapers. Wi-Fi. Open: Mon-Fri 6.30 am - 8.00 pm, Sat-Sun 9.00 am - 8.00 pm</string>
+		<key>Feature</key>
+		<string>PK OO PD WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>46</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.66391</real>
+		<key>Longitude</key>
+		<real>17.92847</real>
+		<key>Title</key>
+		<string>&quot;Kubuś&quot; Milk Bar</string>
+		<key>Description</key>
+		<string>The most popular milk bar in Opole. The unique atmosphere straight from PRL (People&apos;s Republic of Poland). It is possible to run across members of all social classes in the bar. Fresh, home-made food with Russian dumplings and tomato soup for starters. Open: Mon-Fri 8.30 am - 5.00 pm.</string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>47</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.6639</real>
+		<key>Longitude</key>
+		<real>17.92775</real>
+		<key>Title</key>
+		<string>&quot;Pierożek&quot; Bar</string>
+		<key>Description</key>
+		<string>The most famous dumpling bar in Opole. Russian, cabbage, mushroom-filled and fruit-filled dumplings, stuffed cabbage and cheese pancakes. Efficient service and affordable prices. As well as the appetizing smell of friend onion. Simple and tasty. Open: 10.00 am – 7.00 pm, Sat 10.00 am – 3.30 pm.</string>
+		<key>Feature</key>
+		<string>OO</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>48</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.66754</real>
+		<key>Longitude</key>
+		<real>17.92381</real>
+		<key>Title</key>
+		<string>&quot;Starówka&quot; Bar</string>
+		<key>Description</key>
+		<string>One of the oldest bars in Opole, located in a tenement house with a historical horse-shoe above the entrance. Tasty, home-made food at low prices. The famous red borscht and other soups for students &quot;for a penny.&quot; Open: Mon-Fri 7.30 am – 6.30 pm, Sat 8.00 – 3.30 pm.</string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>49</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.66609</real>
+		<key>Longitude</key>
+		<real>17.92251</real>
+		<key>Title</key>
+		<string>&quot;Grabówka&quot; Crepery</string>
+		<key>Description</key>
+		<string>An iconic place. For over 30 years one can eat sweet or savoury French pancakes as well as delicious salads. It is really worth to taste the food under an entresol bathed in verdure at the famous Młynówka Channel. During the National Festival of the Polish Song, it is possible to run across many celebrities. Open: Mon-Fri 10.00 am - 7.00 pm, Sat-Sun 10.00 am - 6.00 pm.</string>
+		<key>Feature</key>
+		<string>SR OO WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>50</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.66789</real>
+		<key>Longitude</key>
+		<real>17.92686</real>
+		<key>Title</key>
+		<string>&quot;Staropolska&quot; House of Pierogi</string>
+		<key>Description</key>
+		<string>The selection of pierogi will give you a headache - with sophisticated stuffing and sweet stuffing, vegetarian and meat, people who can&apos;t decide are able to choose various types. You can also experiment with additions. The unique atmosphere of the interior is created by wall paintings inspired by the artistic creations of Kinkade and Achenbach.</string>
+		<key>Feature</key>
+		<string>PK SR WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>51</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.6694</real>
+		<key>Longitude</key>
+		<real>17.91312</real>
+		<key>Title</key>
+		<string>&quot;Karafka&quot; Restaurant</string>
+		<key>Description</key>
+		<string>A nicely decorated locale invites you to try Italian cuisine dishes. A portion of delightful pasta will ease the biggest hunger, while fans of pizza can chose from many types. An additional strength is the possibility of delivery to home or office.</string>
+		<key>Feature</key>
+		<string>PK OO WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>52</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.66719</real>
+		<key>Longitude</key>
+		<real>17.92416</real>
+		<key>Title</key>
+		<string>&quot;Papa Jack&quot; Restaurant</string>
+		<key>Description</key>
+		<string>It is not only a culinary trip across the ocean. The interior decorated in an American climate allows you, for example, to try fantastic hamburgers, listen to live music, watch a sports broadcast. A great place for a meeting with friends.</string>
+		<key>Feature</key>
+		<string>PK OO WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>53</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.66518</real>
+		<key>Longitude</key>
+		<real>17.91978</real>
+		<key>Title</key>
+		<string>&quot;Radiowa&quot; Restaurant</string>
+		<key>Description</key>
+		<string>Located in the building of Radio Opole. A comfortable corner in the city centre and far away from the bustle of the streets, features a series of musical and culinary attractions as well as sports broadcasts. In the summer, you can have a seat in one of the most beautiful gardens in Opole. Open: MON-THU 10.00 a.m. - 12.00 a.m., FRI 10.00 a.m. - 2.00 a.m., SAT 12.00 p.m. - 2.00 a.m., SUN 12.00 p.m. - 11.00 p.m.</string>
+		<key>Feature</key>
+		<string>PK SR OO WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>54</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.66896</real>
+		<key>Longitude</key>
+		<real>17.91775</real>
+		<key>Title</key>
+		<string>&quot;Starka&quot; Restaurant</string>
+		<key>Description</key>
+		<string>A family restaurant located in a historical, hundred year old tenement house at the Odra River. Three halls - with an old atmosphere of a Bavarian hut, with the style of a grandma&apos;s room from the interwar period and a glass terrace with the view on the Odra River. The menu includes Bavarian and Silesian cuisine specialties. Open: Mon 2.00 pm – 12.00 pm, Tue-Sun 12.00 am – 12.00 pm.</string>
+		<key>Feature</key>
+		<string>PK OO WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>55</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.6675</real>
+		<key>Longitude</key>
+		<real>17.92364</real>
+		<key>Title</key>
+		<string>&quot;Rybex&quot;</string>
+		<key>Description</key>
+		<string>The only fish bar in town combined with a shop. You can have a fast and tasty meal of freshly roasted fish, the offer also includes a wide selection of salads and fish products, also for amateurs of seafood.</string>
+		<key>Feature</key>
+		<string>PK SR WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>56</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.6677</real>
+		<key>Longitude</key>
+		<real>17.92263</real>
+		<key>Title</key>
+		<string>&quot;Franciscan Alley&quot; Dumpling Bar</string>
+		<key>Description</key>
+		<string>The offer includes dumplings (including the house specialty – Franciscan dumplings), stuffed cabbage (also vegetarian) and simple dinner sets – all prepared according to grandma&apos;s recipe. The comfortable interior allows you to satisfy hunger and see the graphic arts of an Opole artist – Karu, while listening to jazz music. Open: Mon-Fri 10.00 am – 7.00 pm, Sat 12.00 am - 6.00 pm.</string>
+		<key>Feature</key>
+		<string>PK WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>57</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.67195</real>
+		<key>Longitude</key>
+		<real>17.92762</real>
+		<key>Title</key>
+		<string>Quchnia</string>
+		<key>Description</key>
+		<string>Low prices, fresh and tasty food and a positive atmosphere. The offer includes both dinner sets and dishes made on request. Various breakfasts while watching the morning news and reading everyday press. Internet access (Wi-Fi and independent PCs). Open: Mon-Sat 8.00 am – 8.00 pm, Sun 12.00 am – 8.00 pm.</string>
+		<key>Feature</key>
+		<string>OO WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>58</integer>
+		<key>Category</key>
+		<string>Must taste</string>
+		<key>Latitude</key>
+		<real>50.66844</real>
+		<key>Longitude</key>
+		<real>17.92154</real>
+		<key>Title</key>
+		<string>&quot;Strych&quot; Winery</string>
+		<key>Description</key>
+		<string>This place follows the ideology of Slow Food and ecology. Dishes prepared with heart are celebrated slowly, while drinking original wine or beer at the same time. Breakfast Buffet of Opole invites you every day, while during weekends the music is played live.</string>
+		<key>Feature</key>
+		<string>PK PL OO PD BC WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>59</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66844</real>
+		<key>Longitude</key>
+		<real>17.92489</real>
+		<key>Title</key>
+		<string>&quot;Ludova&quot; Bar</string>
+		<key>Description</key>
+		<string>The small bar invites visitors to excellent Czech and Slovakian draught beer and a wide selection of snacks. Amateurs of stronger drinks will also find something for themselves. All items in the menu are also available to takeout.</string>
+		<key>Feature</key>
+		<string>WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>60</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66771</real>
+		<key>Longitude</key>
+		<real>17.92288</real>
+		<key>Title</key>
+		<string>&quot;Aqarium&quot; Club</string>
+		<key>Description</key>
+		<string>An iconic place for enthusiasts of the night life. The dark, neon-lit interior features a series of parties, also for the fans of costumes. Bartenders serve sophisticated drinks and the performance of the DJ&apos;s will satisfy every music taste. The only place in Opole where parties are held during the entire week. Open: Mon-Sun 7.00 pm - until the last client leaves.</string>
+		<key>Feature</key>
+		<string>PK</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>61</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66916</real>
+		<key>Longitude</key>
+		<real>17.93259</real>
+		<key>Title</key>
+		<string>&quot;Kofeina 2.0&quot;</string>
+		<key>Description</key>
+		<string>A fashionable place in which visitors can taste professionally brewed coffees, niche beers, tasty dishes prepared without artificial ingredients at a common table. Interesting music events also take place here. An alternative for interior comfortable lounges are folding chairs placed on the outside, where social life flourishes especially on long, summer evenings.</string>
+		<key>Feature</key>
+		<string>PK SR OO BC WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>62</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66908</real>
+		<key>Longitude</key>
+		<real>17.9202</real>
+		<key>Title</key>
+		<string>&quot;A propos&quot; Club &amp; Cafeteria</string>
+		<key>Description</key>
+		<string>A place in a historical tenement house which formerly was a granary. During the day, it is possible to drink coffee, taste cakes baked on site and use the internet at the old-fashioned hall. In the evenings, the place turns into a club and invites people for drinks and live music. Open: Sun-Thu 11.00 am - 12.00 pm, Fri-Sat 11.00 am - 2.00 am.</string>
+		<key>Feature</key>
+		<string>SR OO</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>63</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66849</real>
+		<key>Longitude</key>
+		<real>17.9206</real>
+		<key>Title</key>
+		<string>Highlander</string>
+		<key>Description</key>
+		<string>A popular club with a unique atmosphere, gathering people from the entire surrounding area. Live music, themed and spontaneous &quot;discotheque&quot; parties. Summer season beer garden at the Młynówka Channel and unique &quot;at the High&quot; social meetings. Open: Sun-Thu 12.00 am – until the last client leaves, Fri-Sat 12.00 am – 5.00 am.</string>
+		<key>Feature</key>
+		<string>PK OO WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>64</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66843</real>
+		<key>Longitude</key>
+		<real>17.92168</real>
+		<key>Title</key>
+		<string>&quot;Maska&quot; Pub</string>
+		<key>Description</key>
+		<string>A famous winehouse was located at the place in the middle of the XIX century. During the PRL, it was the residence of Teatr &quot;13 rzędów&quot; (13 row Theatre) of Jerzy Grotowski and Klub Związków Twórczych (Artistic Associations Club). Today, it is a pub and a restaurant with a unique composition of the interior. It is still possible to smell the history and bohemia in the air. Mon-Sat 10.00 am – 2.00 am, Sun 12.00 am - 2.00 am.</string>
+		<key>Feature</key>
+		<string>PK SR OO WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>65</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.6678</real>
+		<key>Longitude</key>
+		<real>17.92426</real>
+		<key>Title</key>
+		<string>&quot;Melon&quot; Pub</string>
+		<key>Description</key>
+		<string>A small pub with a friendly interior enriched with fruit accents. One can escape from the urban noise in comfortable lounges, as well as meet with friends and taste various fantastic drinks. Happy hours everyday 4.00 pm - 6.00 pm. Open: Mon-Thu 10.00 am – 12.00 pm, Fri 10.00 am – 2.00 am, Sat 1.00 pm – 2.00 am, Sun 1.00 am – 12.00 pm.</string>
+		<key>Feature</key>
+		<string>PK SR OO WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>66</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66815</real>
+		<key>Longitude</key>
+		<real>17.91785</real>
+		<key>Title</key>
+		<string>&quot;Ostrówek&quot; Pub</string>
+		<key>Description</key>
+		<string>A pub with a unique atmosphere and an interesting history, located at the Pasieka Island. The place of vernissages, concerts and movie projections, as well as movie quizzes, author meetings and themed parties. Draft Beer, drinks and tasty pizza for the hungry ones - all types for PLN 11.50. Open: Sun-Thu 2.00 am - 12.00 pm, Fri-Sat 2.00 pm - 2.00 am.</string>
+		<key>Feature</key>
+		<string>OO NP WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>67</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66961</real>
+		<key>Longitude</key>
+		<real>17.92248</real>
+		<key>Title</key>
+		<string>&quot;Staromiejska&quot; Beer-house</string>
+		<key>Description</key>
+		<string>The &quot;phantom-pub&quot; open since 1977 at the corner of narrow alleys entangling the Market Square. Clients shall find a jukebox, table football, billiards and a specific atmosphere of a tavern. The nice owner can share many tales about the interesting place. A real treat is the draft Beer for only PLN 2.99! Open: Mon-Sun 10.30 am – 10.00 pm.</string>
+		<key>Feature</key>
+		<string>PK WF</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>68</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66919</real>
+		<key>Longitude</key>
+		<real>17.92246</real>
+		<key>Title</key>
+		<string>&quot;Warka&quot; Pub</string>
+		<key>Description</key>
+		<string>Original interior resembling the XIX century basements will impress the amateurs of beer, tasty snacks and sports. It is possible to watch broadcasts of all important sports events, especially football matches - of  the Polish Ekstraklasa and the English and Spanish leagues. Special offers for students. Open: Mon-Thu 12.00 am - 2.00 am, Fri-Sat 1.00 pm - 2.00 am, Sun 1.00 am - 12.00 pm.</string>
+		<key>Feature</key>
+		<string>PK OO</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>69</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.67191</real>
+		<key>Longitude</key>
+		<real>17.92651</real>
+		<key>Title</key>
+		<string>&quot;Grey Villa&quot;</string>
+		<key>Description</key>
+		<string>A pub, restaurant and bowling alley. The colonial style interior is an ideal place for relaxation in the company of friends. An extraordinary menu, good music, professional service and the longest bar in the city are the components of good fun for clients of every age. Open: Mon-Fri 4.00 pm – 12.00 pm, Sat-Sun 4.00 pm - 2.00 am.</string>
+		<key>Feature</key>
+		<string>PK WF NP</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>70</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.67247</real>
+		<key>Longitude</key>
+		<real>17.9317</real>
+		<key>Title</key>
+		<string>University of Opole campus</string>
+		<key>Description</key>
+		<string>&quot;a city within a city.&quot; A place for relaxation for students of the Opole universities, who meet in the evenings to have a barbeque, sing or play badminton, while in the summer - they sunbathe between the lectures. There is also the Orlik sports complex located within the campus.</string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>71</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.66613</real>
+		<key>Longitude</key>
+		<real>17.91747</real>
+		<key>Title</key>
+		<string>&quot;Toropol&quot; Ice Skating Rink</string>
+		<key>Description</key>
+		<string>The open access ice rink attracts thousands of ice skating amateurs of various ages. Ice hockey matches and sports events are being held at Toropol. It is possible to use the skate rental. Open: Mon-Sun 6.00 am - 10.00 pm.</string>
+		<key>Feature</key>
+		<string>PD</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>72</integer>
+		<key>Category</key>
+		<string>Have Fun</string>
+		<key>Latitude</key>
+		<real>50.65782</real>
+		<key>Longitude</key>
+		<real>17.91952</real>
+		<key>Title</key>
+		<string>Canoeing Harbour</string>
+		<key>Description</key>
+		<string>In the harbour of the Bolko Island, Opolskie Towarzystwo Kajakowe (Opole Canoe Association) runs a canoe equipment rental. Renting a canoe (1h – PLN 5 per person) or a motorboat allows you to see Opole from a different perspective. A camp site (24h - PLN 5 per person) can be found next to the harbour. Open: Mon-Fri 11.00 am - 5.00 pm, Sat-Sun 12.00 am - 8.00 pm.</string>
+		<key>Feature</key>
+		<string>SR PD</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>73</integer>
+		<key>Category</key>
+		<string>Cycle station</string>
+		<key>Latitude</key>
+		<real>50.6627</real>
+		<key>Longitude</key>
+		<real>17.9263</real>
+		<key>Title</key>
+		<string>Dworzec Główny PKP</string>
+		<key>Description</key>
+		<string></string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>74</integer>
+		<key>Category</key>
+		<string>Cycle station</string>
+		<key>Latitude</key>
+		<real>50.6669</real>
+		<key>Longitude</key>
+		<real>17.9239</real>
+		<key>Title</key>
+		<string>Plac Wolności</string>
+		<key>Description</key>
+		<string></string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>75</integer>
+		<key>Category</key>
+		<string>Cycle station</string>
+		<key>Latitude</key>
+		<real>50.66851</real>
+		<key>Longitude</key>
+		<real>17.91363</real>
+		<key>Title</key>
+		<string>Spychalskiego</string>
+		<key>Description</key>
+		<string></string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>76</integer>
+		<key>Category</key>
+		<string>Cycle station</string>
+		<key>Latitude</key>
+		<real>50.67358</real>
+		<key>Longitude</key>
+		<real>17.9311</real>
+		<key>Title</key>
+		<string>Uniwersytet – Oleska</string>
+		<key>Description</key>
+		<string></string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>77</integer>
+		<key>Category</key>
+		<string>Cycle station</string>
+		<key>Latitude</key>
+		<real>50.6677</real>
+		<key>Longitude</key>
+		<real>17.933</real>
+		<key>Title</key>
+		<string>Uniwersytet – Ozimska</string>
+		<key>Description</key>
+		<string></string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+	<dict>
+		<key>Lp</key>
+		<integer>78</integer>
+		<key>Category</key>
+		<string>Cycle station</string>
+		<key>Latitude</key>
+		<real>50.6595</real>
+		<key>Longitude</key>
+		<real>17.9225</real>
+		<key>Title</key>
+		<string>Wyspa Pasieka</string>
+		<key>Description</key>
+		<string></string>
+		<key>Feature</key>
+		<string>SR</string>
+	</dict>
+</array>
+</plist>

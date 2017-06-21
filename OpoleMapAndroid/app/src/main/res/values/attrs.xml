@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fontface">
+        <enum name="libelsuit" value="0" />
+    </attr>
+    <declare-styleable name="com.binartech.opolemap.core.TypefaceTextView">
+        <attr name="fontface" />
+    </declare-styleable>
+</resources>

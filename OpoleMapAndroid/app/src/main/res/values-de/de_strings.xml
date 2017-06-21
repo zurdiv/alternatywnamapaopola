@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_full_name">Alternative Karte von Oppeln</string>
+    <string name="app_name">Karte von Oppeln</string>
+    <string name="select_category">Wähle die Kategorie aus</string>
+    <string name="select_place">Wähle den Ort aus</string>
+    <string name="my_location">Mein Standort</string>
+    <string name="location_unavailable">Dein Standort ist noch unerreichbar.</string>
+    <string name="feature_electronic_payment">Kartenzahlung möglich.</string>
+    <string name="feature_bicycle_parking">Du findest dort Fahradständer.</string>
+    <string name="feature_board">Gesellschaftsspiele</string>
+    <string name="feature_garden">Du findest dort Gartenanlagen.</string>
+    <string name="feature_kid_aware">Dieser Ort ist kinderfreundlich.</string>
+    <string name="feature_wifi">Wifi.</string>
+    <string name="feature_disabled_people_aware">Dieser Ort ist behindertenfreundlich.</string>
+    <string name="location_outside_map">Dein aktueller Standort befindet sich außerhalb der Karte.</string>
+    <string name="wszystkie">Alle Standpunkte</string>
+</resources>

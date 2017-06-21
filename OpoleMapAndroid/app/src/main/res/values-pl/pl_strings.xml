@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_full_name">Alternatywna Mapa Opola</string>
+    <string name="app_name">Mapa Opola</string>
+    <string name="select_category">Wybierz kategorię</string>
+    <string name="select_place">Wybierz miejsce</string>
+    <string name="my_location">Moja lokacja</string>
+    <string name="location_unavailable">Twoja lokacja jest jeszcze niedostępna.</string>
+    <string name="feature_electronic_payment">Możesz zapłacić za pomocą karty płatniczej.</string>
+    <string name="feature_bicycle_parking">Na miejscu znajduje się stojak na rowery.</string>
+    <string name="feature_board">Planszówka.</string>
+    <string name="feature_garden">Na miejscu znajduje się ogródek.</string>
+    <string name="feature_kid_aware">To miejsce jest odpowiednie dla dzieci.</string>
+    <string name="feature_wifi">Na miejscu dostępna jest sieć WiFi.</string>
+    <string name="feature_disabled_people_aware">To miejsce jest przyjazne dla osób niepełnosprawnych.</string>
+    <string name="location_outside_map">Twoja aktualna pozycja znajduje się poza mapą.</string>
+    <string name="wszystkie">Wszystkie</string>
+</resources>

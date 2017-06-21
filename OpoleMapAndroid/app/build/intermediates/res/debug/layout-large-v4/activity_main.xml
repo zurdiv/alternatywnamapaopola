@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:baselineAligned="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <fragment
+        android:id="@+id/places"
+        android:name="com.binartech.opolemap.fragments.PlacesListFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="30" />
+    <fragment
+        android:id="@+id/map"
+        android:name="com.binartech.opolemap.fragments.TiledMapFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="70" />
+</LinearLayout>
+<!-- From: file:/home/ppoteralski/AndroidStudioProjects/OpoleMapAndroid/app/src/main/res/layout-large/activity_main.xml -->

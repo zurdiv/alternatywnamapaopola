@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_my_location"
+        android:icon="@drawable/ic_menu_mylocation"
+        android:showAsAction="always"
+        android:title="@string/my_location"/>
+</menu><!-- From: file:/home/ppoteralski/AndroidStudioProjects/OpoleMapAndroid/app/src/main/res/menu/map_activity.xml -->

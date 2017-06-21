@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ppoteralski/AndroidStudioProjects/OpoleMapAndroid/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/home/ppoteralski/AndroidStudioProjects/OpoleMapAndroid/app/build/intermediates/pre-dexed/debug/classes-fa1a95c9c09ebe1f5c83c309cf7ce33d3aac1330.jar" />
+    </item>
+    <item
+        jar="/home/ppoteralski/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/ppoteralski/AndroidStudioProjects/OpoleMapAndroid/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-6944b84852a9a48d48aa7f70b8c4536f9d0eb434.jar" />
+    </item>
+    <item
+        jar="/home/ppoteralski/AndroidStudioProjects/OpoleMapAndroid/app/build/intermediates/exploded-aar/OpoleMapAndroid/tilingScrollView/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d03cbd3273934e8dc96eb7d71ce0212c84276e48">
+        <dex dex="/home/ppoteralski/AndroidStudioProjects/OpoleMapAndroid/app/build/intermediates/pre-dexed/debug/classes-d52a672a07abc481a7ba1e3bcb25bacc99c0fb83.jar" />
+    </item>
+
+</items>

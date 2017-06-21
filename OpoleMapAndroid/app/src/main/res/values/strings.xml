@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_full_name">Alternative Opole Map</string>
+    <string name="app_name">Opole Map</string>
+    <string name="select_category">Select category</string>
+    <string name="select_place">Select place to see</string>
+    <string name="my_location">My location</string>
+    <string name="location_unavailable">You location is not available yet</string>
+    <string name="feature_book_crossing" donottranslate="true">Book crossing.</string>
+    <string name="feature_electronic_payment">You can pay using electronic credit card.</string>
+    <string name="feature_bicycle_parking">A bicycle rack is available here.</string>
+    <string name="feature_board">Board arrangement.</string>
+    <string name="feature_garden">A garden is available outside.</string>
+    <string name="feature_kid_aware">This place is suitable for children.</string>
+    <string name="feature_wifi">Free WiFi hotspot is available here.</string>
+    <string name="feature_disabled_people_aware">This place is Disabled Guests friendly.</string>
+    <string name="location_outside_map">Your current location is outside the map.</string>
+    <string name="wszystkie">All locations</string>
+</resources>
