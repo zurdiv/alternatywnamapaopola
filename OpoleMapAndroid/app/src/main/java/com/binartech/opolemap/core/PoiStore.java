@@ -161,7 +161,7 @@ public class PoiStore extends HashMap<String, ArrayList<Poi>>
     
     public static int getListDrawableForCategory(String category)
     {
-//    	Log.d("TAG", category);
+   	Log.d("TAG", category);
         return sCategoryImages.get(category.toLowerCase()).intValue();
     }
 
